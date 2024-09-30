@@ -25,11 +25,11 @@
 
 ◈ Trading **UNREGULATED** slopcoins since 20XX. Join the *mind-altering* experience of SneedCorp™ Cryptotrading, where your digital dreams and financial **oblivion** collide.
 
-███>    You are now standing at the absolute blackened edge of
-█▓▓>    cryptoeconomic warfare. SneedCorp™️ offers the finest instruments of 
-███>    Hyperviolence Finance. Sharpen your  tokens and gear up for
-█▓█>    a baptism in liquidity pools. What once was tangible, is now ***virtual 
-███>     dust.***
+      ███>    You are now standing at the absolute blackened edge of
+      █▓▓>    cryptoeconomic warfare. SneedCorp™️ offers the finest instruments of 
+      ███>    Hyperviolence Finance. Sharpen your  tokens and gear up for
+      █▓█>    a baptism in liquidity pools. What once was tangible, is now ***virtual 
+      ███>     dust.***
 
 
 ## 🧠 INSTALLATION 🧠
