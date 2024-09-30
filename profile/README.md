@@ -41,8 +41,8 @@
 
 ##  ZOGLOCK (TM) SECURITY FEATURES 
 
-- [ ] **Anti-SneedSnipe Protocol v0.7** - Keeps out ✪THEM✪  
-- [ ] **SNEEDchain™** - Blockchain but ... it's *ALIVE*??... and *angry*??
+- [ ] **Anti-SneedSnipe Protocol v0.7** - Keeps out ✪zog✪  
+- [ ] **SNEEDchain™** 
 - [ ] **RNG Casino-Style Trading Algorithm** 🎲 -- Win Sneed or Lose all 🤖💸  
 - [ ] ✖ 𝗡𝗢 𝗥𝗘𝗙𝗨𝗡𝗗𝗦 ✖
 
